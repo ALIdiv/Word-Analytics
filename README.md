@@ -1,2 +1,5 @@
 # Word-Analytics
-A project for typest 
+A simple project for typest 
+with Html, Tailwind, Vuejs
+
+Good Luck
